@@ -1,0 +1,10 @@
+.card img{
+    width: 61%;
+    padding: 20px 10px 10px;
+    margin-left: 66px;
+}
+.card:hover{
+    transform: scale(1.07);
+    transition: 1s ease-out;
+    background-color: rgba(30, 83, 133, 0.261);
+}
